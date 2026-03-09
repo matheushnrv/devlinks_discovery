@@ -100,24 +100,6 @@ Durante o desenvolvimento deste projeto foram praticados:
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=matheushnrv&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=matheushnrv&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushnrv&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 👨‍💻 Autor
 
 **Matheus Henrique Vitor**
