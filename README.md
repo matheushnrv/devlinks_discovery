@@ -1,7 +1,7 @@
 # 🚀 DevLinks
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/status-concluído-darkgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -58,12 +58,19 @@ Este projeto foi desenvolvido com:
 
 devlinks_discovery<br>
 │<br>
+├── .github<br>
+│ ├── desktop-preview.png<br>
+│ ├── mobile-preview.png<br>
+├── .vscode<br>
+│ ├── settings.json<br>
 ├── assets<br>
+│ ├── avatar-light.png<br>
 │ ├── avatar.png<br>
-│ ├── preview.png<br>
-│ └── icons<br>
+│ ├── MoonStars.svg<br>
+│ └── Sun.svg<br>
 │<br>
 ├── index.html<br>
+├── README.md<br>
 ├── style.css<br>
 └── script.js<br>
 
@@ -73,11 +80,11 @@ devlinks_discovery<br>
 
 ### 1️⃣ Clone o repositório
 
-git clone https://github.com/matheushnrv/devlinks_discovery.git
+git clone https://github.com/matheushnrv/devlinks_discover.git
 
 ### 2️⃣ Acesse a pasta do projeto
 
-cd devlinks_discovery
+cd devlinks_discover
 
 ### 3️⃣ Abra o projeto no navegador
 
