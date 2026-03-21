@@ -27,7 +27,7 @@
 
 🔗 **Deploy do projeto**
 
-https://matheushnrv.github.io/devlinks_discovery/
+https://matheushnrv.github.io/devlinks_discover/
 
 ---
 
